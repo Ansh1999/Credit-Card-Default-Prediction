@@ -1,0 +1,6 @@
+[2023-10-27 19:26:56,059] [187] werkzeug - WARNING -  * Debugger is active!
+[2023-10-27 19:26:56,089] [187] werkzeug - INFO -  * Debugger PIN: 125-781-912
+[2023-10-27 19:35:48,334] [187] werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 19:35:48] "GET / HTTP/1.1" 200 -
+[2023-10-27 19:35:48,516] [187] werkzeug - INFO - 127.0.0.1 - - [27/Oct/2023 19:35:48] "GET /static/styles.css HTTP/1.1" 200 -
+[2023-10-29 02:09:09,563] [187] werkzeug - INFO - 127.0.0.1 - - [29/Oct/2023 02:09:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+[2023-10-29 02:09:38,648] [187] werkzeug - INFO - 127.0.0.1 - - [29/Oct/2023 02:09:38] "POST /predict_datapoint HTTP/1.1" 200 -
